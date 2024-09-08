@@ -8,15 +8,15 @@ There is also a volumetric fog system, a lens flare system,
 and a boids system to animate birds or fishes.
 
 ## Content
-1. terrain shader
-2. water shader
-3. tree shader
-4. grass shader
-5. pbr shader
+1. Terrain shader
+2. Water shader
+3. Tree shader
+4. Grass shader
+5. PBR shader
 6. LOD instancer
-7. animated boids system
-8. volumetric fog
-9. lens flare shader
+7. Animated boids system
+8. Volumetric fog
+9. Lens flare shader
 10. Terrain Example Scene                   
 
 
