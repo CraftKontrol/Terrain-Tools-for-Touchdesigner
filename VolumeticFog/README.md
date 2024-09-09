@@ -1,5 +1,5 @@
-#Volumetric Fog
-#Version 1.01
+# Volumetric Fog
+# Version 1.01
 Generate Fog from Beauty and depth.
 Just removed multiple light based positions and colors to simplify the shader.
 I added a fade factor to the fog to make it fade out a different color at a certain distance.
