@@ -1,12 +1,11 @@
 ![Terrain Tools Image](https://github.com/CraftKontrol/Terrain-Tools-for-Touchdesigner/blob/main/TerrainExample/TerrainToolsExample.jpg?raw=true)
 # Terrain Tools for Touchdesigner 
-Terrain Tools is a set of externals for touchdesigner designed to help create environments.
-All based on game engines techniques, this set of tools is designed to be used in real-time applications.
-It use as input a height map and a splat map to blend between different textures.
-It uses also the height map to instance trees and grass on the terrain.
-It uses a LOD system to optimize the rendering of the scene.
-There is also a volumetric fog system, a lens flare system, 
-and a boids system to animate birds or fishes.
+Terrain Tools is a set of externals for TouchDesigner designed to help create environments. 
+Based on game engine techniques, this set of tools is designed to be used in real-time applications. 
+It uses a height map and a splat map as input to blend between different textures. 
+It also uses the height map to instance trees and grass on the terrain. 
+It employs a LOD system to optimize the rendering of the scene. 
+Additionally, there is a volumetric fog system, a lens flare system, and a boids system to animate birds or fish.
 
 ## Content
 1. Terrain shader
