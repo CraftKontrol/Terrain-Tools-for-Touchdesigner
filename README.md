@@ -1,3 +1,4 @@
+![Glotch image](https://github.com/CraftKontrol/Terrain-Tools-for-Touchdesigner/blob/main/TerrainExample/TerrainToolsExample.jpg?raw=true)
 # Terrain Tools for Touchdesigner 
 Terrain Tools is a set of externals for touchdesigner designed to help create environments.
 All based on game engines techniques, this set of tools is designed to be used in real-time applications.
