@@ -1,4 +1,4 @@
 /backup/
 !TerrainPBR.tox
-README.md
+!README.md
 *.bak
